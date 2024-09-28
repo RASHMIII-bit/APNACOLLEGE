@@ -1,1 +1,18 @@
-
+h1{
+  color:red;
+}
+p{
+  color:yellow;
+}
+h2{
+  color:yellow;
+}
+button{
+  colour:blue;
+}
+body{
+  background-color:green;
+}
+button{
+  backgroung-color:pink;
+}
